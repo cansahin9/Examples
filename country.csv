@@ -1,0 +1,1192 @@
+value_a_code,value_b_code,domain_b_code,case
+ABW,Aruba,AC2,domain_a
+ABW,ABW,CID,domain_a
+ABW,305,CRS,domain_a
+ABW,Aruba,UNHCR,domain_a
+AFG,Afghanistan,AC2,domain_a
+AFG,AFG,CID,domain_a
+AFG,1,CRS,domain_a
+AFG,Afghanistan,UNHCR,domain_a
+AFI,Djibouti,AC2,domain_a
+AFI,AFI,CID,domain_a
+AGO,Angola,AC2,domain_a
+AGO,AGO,CID,domain_a
+AGO,6,CRS,domain_a
+AGO,Angola,UNHCR,domain_a
+AIA,Anguilla,AC2,domain_a
+AIA,AIA,CID,domain_a
+AIA,ANG,CID,domain_a
+AIA,7,CRS,domain_a
+AIA,Anguilla,UNHCR,domain_a
+ALA,Aland Islands,AC2,domain_a
+ALA,ALA,CID,domain_a
+ALB,Albania,AC2,domain_a
+ALB,ALB,CID,domain_a
+ALB,2,CRS,domain_a
+ALB,Albania,UNHCR,domain_a
+AND,Andorra,AC2,domain_a
+AND,AND,CID,domain_a
+AND,5,CRS,domain_a
+AND,Andorra,UNHCR,domain_a
+ANT,Netherlands Antilles,AC2,domain_a
+ANT,ANT,CID,domain_a
+ANT,Netherlands Antilles,UNHCR,domain_a
+ARE,United Arab Emirates,AC2,domain_a
+ARE,ARE,CID,domain_a
+ARE,179,CRS,domain_a
+ARE,United Arab Emirates,UNHCR,domain_a
+ARG,Argentina,AC2,domain_a
+ARG,ARG,CID,domain_a
+ARG,9,CRS,domain_a
+ARG,Argentina,UNHCR,domain_a
+ARM,Armenia,AC2,domain_a
+ARM,ARM,CID,domain_a
+ARM,10,CRS,domain_a
+ARM,Armenia,UNHCR,domain_a
+ASM,American Samoa,AC2,domain_a
+ASM,ASM,CID,domain_a
+ASM,304,CRS,domain_a
+ASM,American Samoa,UNHCR,domain_a
+ATA,Antarctica,AC2,domain_a
+ATA,ATA,CID,domain_a
+ATA,Antarctica,UNHCR,domain_a
+ATB,Antarctica,AC2,domain_a
+ATB,ATB,CID,domain_a
+ATF,French Southern Territories,AC2,domain_a
+ATF,ATF,CID,domain_a
+ATF,French Southern Territories,UNHCR,domain_a
+ATG,Antigua and Barbuda,AC2,domain_a
+ATG,ATG,CID,domain_a
+ATG,XBB,CID,domain_a
+ATG,8,CRS,domain_a
+ATG,Antigua and Barbuda,UNHCR,domain_a
+ATN,Antarctica,AC2,domain_a
+ATN,ATN,CID,domain_a
+AUS,Australia,AC2,domain_a
+AUS,AUS,CID,domain_a
+AUS,11,CRS,domain_a
+AUS,Australia,UNHCR,domain_a
+AUT,Austria,AC2,domain_a
+AUT,AUT,CID,domain_a
+AUT,212,CRS,domain_a
+AUT,Austria,UNHCR,domain_a
+AZE,Azerbaijan,AC2,domain_a
+AZE,AZE,CID,domain_a
+AZE,12,CRS,domain_a
+AZE,Azerbaijan,UNHCR,domain_a
+BDI,Burundi,AC2,domain_a
+BDI,BDI,CID,domain_a
+BDI,30,CRS,domain_a
+BDI,Burundi,UNHCR,domain_a
+BEL,Belgium,AC2,domain_a
+BEL,BEL,CID,domain_a
+BEL,17,CRS,domain_a
+BEL,Belgium,UNHCR,domain_a
+BEN,Benin,AC2,domain_a
+BEN,BEN,CID,domain_a
+BEN,19,CRS,domain_a
+BEN,Benin,UNHCR,domain_a
+BES,Netherlands Antilles,AC2,domain_a
+BES,BES,CID,domain_a
+BES,300,CRS,domain_a
+BES,"Bonaire, Saint Eustatius and Saba",UNHCR,domain_a
+BFA,Burkina Faso,AC2,domain_a
+BFA,BFA,CID,domain_a
+BFA,28,CRS,domain_a
+BFA,Burkina Faso,UNHCR,domain_a
+BFS,Burkina Faso,AC2,domain_a
+BFS,BFS,CID,domain_a
+BGD,Bangladesh,AC2,domain_a
+BGD,BGD,CID,domain_a
+BGD,15,CRS,domain_a
+BGD,Bangladesh,UNHCR,domain_a
+BGR,Bulgaria,AC2,domain_a
+BGR,BGR,CID,domain_a
+BGR,27,CRS,domain_a
+BGR,Bulgaria,UNHCR,domain_a
+BHR,Bahrain,AC2,domain_a
+BHR,BHR,CID,domain_a
+BHR,14,CRS,domain_a
+BHR,Bahrain,UNHCR,domain_a
+BHS,Bahamas,AC2,domain_a
+BHS,BHS,CID,domain_a
+BHS,13,CRS,domain_a
+BHS,Bahamas,UNHCR,domain_a
+BIH,Bosnia And Herzegovina,AC2,domain_a
+BIH,BIH,CID,domain_a
+BIH,BSH,CID,domain_a
+BIH,23,CRS,domain_a
+BIH,Bosnia and Herzegovina,UNHCR,domain_a
+BLM,Unspec Caribbean Country,AC2,domain_a
+BLM,BLM,CID,domain_a
+BLR,Belarus,AC2,domain_a
+BLR,BLR,CID,domain_a
+BLR,31,CRS,domain_a
+BLR,Belarus,UNHCR,domain_a
+BLZ,Belize,AC2,domain_a
+BLZ,BLZ,CID,domain_a
+BLZ,18,CRS,domain_a
+BLZ,Belize,UNHCR,domain_a
+BMU,Bermuda,AC2,domain_a
+BMU,BMU,CID,domain_a
+BMU,20,CRS,domain_a
+BMU,Bermuda,UNHCR,domain_a
+BOL,Bolivia,AC2,domain_a
+BOL,BOL,CID,domain_a
+BOL,22,CRS,domain_a
+BOL,"Bolivia, Plurinational State of",UNHCR,domain_a
+BRA,Brazil,AC2,domain_a
+BRA,BRA,CID,domain_a
+BRA,25,CRS,domain_a
+BRA,Brazil,UNHCR,domain_a
+BRB,Barbados,AC2,domain_a
+BRB,BRB,CID,domain_a
+BRB,16,CRS,domain_a
+BRB,Barbados,UNHCR,domain_a
+BRN,Brunei,AC2,domain_a
+BRN,BRN,CID,domain_a
+BRN,26,CRS,domain_a
+BRN,Brunei Darussalam,UNHCR,domain_a
+BTN,Bhutan,AC2,domain_a
+BTN,BTN,CID,domain_a
+BTN,21,CRS,domain_a
+BTN,Bhutan,UNHCR,domain_a
+BVT,Bouvet Island,AC2,domain_a
+BVT,BVT,CID,domain_a
+BVT,Bouvet Island,UNHCR,domain_a
+BWA,Botswana,AC2,domain_a
+BWA,BWA,CID,domain_a
+BWA,24,CRS,domain_a
+BWA,Botswana,UNHCR,domain_a
+CAF,Central African Republic,AC2,domain_a
+CAF,CAF,CID,domain_a
+CAF,37,CRS,domain_a
+CAF,Central African Republic,UNHCR,domain_a
+CAN,Canada,AC2,domain_a
+CAN,CAN,CID,domain_a
+CAN,34,CRS,domain_a
+CAN,Canada,UNHCR,domain_a
+CCK,Cocos (Keeling) Islands,AC2,domain_a
+CCK,CCK,CID,domain_a
+CCK,Cocos (Keeling) Island,UNHCR,domain_a
+CHE,Switzerland,AC2,domain_a
+CHE,CHE,CID,domain_a
+CHE,164,CRS,domain_a
+CHE,Switzerland,UNHCR,domain_a
+CHL,Chile,AC2,domain_a
+CHL,CHL,CID,domain_a
+CHL,39,CRS,domain_a
+CHL,Chile,UNHCR,domain_a
+CHN,China,AC2,domain_a
+CHN,CHN,CID,domain_a
+CHN,XCA,CID,domain_a
+CHN,40,CRS,domain_a
+CHN,China,UNHCR,domain_a
+CIV,Ivory Coast,AC2,domain_a
+CIV,CIV,CID,domain_a
+CIV,46,CRS,domain_a
+CIV,Cote dIvoire,UNHCR,domain_a
+CMR,Cameroon,AC2,domain_a
+CMR,CMR,CID,domain_a
+CMR,33,CRS,domain_a
+CMR,Cameroon,UNHCR,domain_a
+COD,"Congo, The Dem Rep Of The",AC2,domain_a
+COD,COD,CID,domain_a
+COD,ZAR,CID,domain_a
+COD,Democratic Republic of the Congo,UNHCR,domain_a
+COG,Congo,AC2,domain_a
+COG,COG,CID,domain_a
+COG,XCB,CID,domain_a
+COG,188,CRS,domain_a
+COG,225,CRS,domain_a
+COG,44,CRS,domain_a
+COG,"Congo, Republic of the",UNHCR,domain_a
+COK,Cook Islands,AC2,domain_a
+COK,COK,CID,domain_a
+COK,Cook Islands,UNHCR,domain_a
+COL,Colombia,AC2,domain_a
+COL,COL,CID,domain_a
+COL,42,CRS,domain_a
+COL,Colombia,UNHCR,domain_a
+COM,Comoros,AC2,domain_a
+COM,COM,CID,domain_a
+COM,43,CRS,domain_a
+COM,Comoros,UNHCR,domain_a
+CPV,Cape Verde,AC2,domain_a
+CPV,CPV,CID,domain_a
+CPV,35,CRS,domain_a
+CPV,Cape Verde,UNHCR,domain_a
+CRI,Costa Rica,AC2,domain_a
+CRI,CRI,CID,domain_a
+CRI,45,CRS,domain_a
+CRI,Costa Rica,UNHCR,domain_a
+CTE,Kiribati,AC2,domain_a
+CTE,CTE,CID,domain_a
+CUB,Cuba,AC2,domain_a
+CUB,CUB,CID,domain_a
+CUB,48,CRS,domain_a
+CUB,Cuba,UNHCR,domain_a
+CUW,Netherlands Antilles,AC2,domain_a
+CUW,CUW,CID,domain_a
+CUW,301,CRS,domain_a
+CUW,Curacao,UNHCR,domain_a
+CXR,Christmas Island,AC2,domain_a
+CXR,CXR,CID,domain_a
+CXR,Christmas Island,UNHCR,domain_a
+CYM,Cayman Islands,AC2,domain_a
+CYM,CYM,CID,domain_a
+CYM,36,CRS,domain_a
+CYM,Cayman Islands,UNHCR,domain_a
+CYP,Cyprus,AC2,domain_a
+CYP,CYP,CID,domain_a
+CYP,234,CRS,domain_a
+CYP,49,CRS,domain_a
+CYP,Cyprus,UNHCR,domain_a
+CZE,Czech Republic,AC2,domain_a
+CZE,CZE,CID,domain_a
+CZE,50,CRS,domain_a
+CZE,55,CRS,domain_a
+CZE,Czech Republic,UNHCR,domain_a
+DEU,Germany,AC2,domain_a
+DEU,DEU,CID,domain_a
+DEU,XGR,CID,domain_a
+DEU,204,CRS,domain_a
+DEU,Germany,UNHCR,domain_a
+DHY,Benin,AC2,domain_a
+DHY,DHY,CID,domain_a
+DJI,Djibouti,AC2,domain_a
+DJI,DJI,CID,domain_a
+DJI,52,CRS,domain_a
+DJI,Djibouti,UNHCR,domain_a
+DMA,Dominica,AC2,domain_a
+DMA,DMA,CID,domain_a
+DMA,53,CRS,domain_a
+DMA,Dominica,UNHCR,domain_a
+DNK,Denmark,AC2,domain_a
+DNK,DNK,CID,domain_a
+DNK,51,CRS,domain_a
+DNK,Denmark,UNHCR,domain_a
+DOM,Dominican Republic,AC2,domain_a
+DOM,DOM,CID,domain_a
+DOM,54,CRS,domain_a
+DOM,Dominican Republic,UNHCR,domain_a
+DZA,Algeria,AC2,domain_a
+DZA,DZA,CID,domain_a
+DZA,3,CRS,domain_a
+DZA,Algeria,UNHCR,domain_a
+ECU,Ecuador,AC2,domain_a
+ECU,ECU,CID,domain_a
+ECU,56,CRS,domain_a
+ECU,Ecuador,UNHCR,domain_a
+EGY,Egypt,AC2,domain_a
+EGY,EGY,CID,domain_a
+EGY,57,CRS,domain_a
+EGY,Egypt,UNHCR,domain_a
+ERI,Eritrea,AC2,domain_a
+ERI,ERI,CID,domain_a
+ERI,191,CRS,domain_a
+ERI,Eritrea,UNHCR,domain_a
+ESH,Western Sahara,AC2,domain_a
+ESH,ESH,CID,domain_a
+ESH,226,CRS,domain_a
+ESH,303,CRS,domain_a
+ESH,Western Sahara,UNHCR,domain_a
+ESP,Spain,AC2,domain_a
+ESP,ESP,CID,domain_a
+ESP,202,CRS,domain_a
+ESP,Spain,UNHCR,domain_a
+EST,Estonia,AC2,domain_a
+EST,EST,CID,domain_a
+EST,60,CRS,domain_a
+EST,Estonia,UNHCR,domain_a
+ETH,Ethiopia,AC2,domain_a
+ETH,ETH,CID,domain_a
+ETH,61,CRS,domain_a
+ETH,Ethiopia,UNHCR,domain_a
+FIN,Finland,AC2,domain_a
+FIN,FIN,CID,domain_a
+FIN,213,CRS,domain_a
+FIN,Finland,UNHCR,domain_a
+FJI,Fiji,AC2,domain_a
+FJI,FJI,CID,domain_a
+FJI,62,CRS,domain_a
+FJI,Fiji,UNHCR,domain_a
+FLK,Falkland Islands,AC2,domain_a
+FLK,FLK,CID,domain_a
+FLK,306,CRS,domain_a
+FLK,Falkland Islands (Malvinas),UNHCR,domain_a
+FRA,France,AC2,domain_a
+FRA,FRA,CID,domain_a
+FRA,63,CRS,domain_a
+FRA,France,UNHCR,domain_a
+FRO,Faroe Islands,AC2,domain_a
+FRO,FRO,CID,domain_a
+FRO,302,CRS,domain_a
+FRO,Faroe Islands,UNHCR,domain_a
+FRY,FRY,CID,domain_a
+FSM,Micronesia,AC2,domain_a
+FSM,FSM,CID,domain_a
+FSM,220,CRS,domain_a
+FSM,"Micronesia, Federated States of",UNHCR,domain_a
+FXX,France,AC2,domain_a
+FXX,FXX,CID,domain_a
+GAB,Gabon,AC2,domain_a
+GAB,GAB,CID,domain_a
+GAB,64,CRS,domain_a
+GAB,Gabon,UNHCR,domain_a
+GBR,United Kingdom,AC2,domain_a
+GBR,GBR,CID,domain_a
+GBR,XGB,CID,domain_a
+GBR,240,CRS,domain_a
+GBR,United Kingdom of Great Britain and North. Ireland,UNHCR,domain_a
+GEO,Georgia,AC2,domain_a
+GEO,GEO,CID,domain_a
+GEO,66,CRS,domain_a
+GEO,Georgia,UNHCR,domain_a
+GGY,Channel Islands,AC2,domain_a
+GGY,GGY,CID,domain_a
+GHA,Ghana,AC2,domain_a
+GHA,GHA,CID,domain_a
+GHA,67,CRS,domain_a
+GHA,Ghana,UNHCR,domain_a
+GIB,Gibraltar,AC2,domain_a
+GIB,GIB,CID,domain_a
+GIB,68,CRS,domain_a
+GIB,Gibraltar,UNHCR,domain_a
+GIN,Guinea,AC2,domain_a
+GIN,GIN,CID,domain_a
+GIN,73,CRS,domain_a
+GIN,Guinea,UNHCR,domain_a
+GLP,Guadeloupe,AC2,domain_a
+GLP,GLP,CID,domain_a
+GMB,Gambia,AC2,domain_a
+GMB,GMB,CID,domain_a
+GMB,65,CRS,domain_a
+GMB,Gambia,UNHCR,domain_a
+GNB,Guinea-Bissau,AC2,domain_a
+GNB,GNB,CID,domain_a
+GNB,74,CRS,domain_a
+GNB,Guinea-Bissau,UNHCR,domain_a
+GNQ,Equatorial Guinea,AC2,domain_a
+GNQ,GNQ,CID,domain_a
+GNQ,59,CRS,domain_a
+GNQ,Equatorial Guinea,UNHCR,domain_a
+GRC,Greece,AC2,domain_a
+GRC,GRC,CID,domain_a
+GRC,214,CRS,domain_a
+GRC,239,CRS,domain_a
+GRC,Greece,UNHCR,domain_a
+GRD,Grenada,AC2,domain_a
+GRD,GRD,CID,domain_a
+GRD,70,CRS,domain_a
+GRD,Grenada,UNHCR,domain_a
+GRL,Greenland,AC2,domain_a
+GRL,GRL,CID,domain_a
+GRL,69,CRS,domain_a
+GRL,Greenland,UNHCR,domain_a
+GTM,Guatemala,AC2,domain_a
+GTM,GTM,CID,domain_a
+GTM,72,CRS,domain_a
+GTM,Guatemala,UNHCR,domain_a
+GUF,French Guiana,AC2,domain_a
+GUF,GUF,CID,domain_a
+GUF,307,CRS,domain_a
+GUF,French Guiana,UNHCR,domain_a
+GUM,Guam,AC2,domain_a
+GUM,GUM,CID,domain_a
+GUM,Guam,UNHCR,domain_a
+GUY,Guyana,AC2,domain_a
+GUY,GUY,CID,domain_a
+GUY,71,CRS,domain_a
+GUY,Guyana,UNHCR,domain_a
+HKG,Hong Kong,AC2,domain_a
+HKG,HKG,CID,domain_a
+HKG,78,CRS,domain_a
+HKG,"Hong Kong, (SAR, China)",UNHCR,domain_a
+HMD,Heard Isl & Mcdonald Isl,AC2,domain_a
+HMD,HMD,CID,domain_a
+HMD,Heard Island & Mcdonald Island,UNHCR,domain_a
+HND,Honduras,AC2,domain_a
+HND,HND,CID,domain_a
+HND,77,CRS,domain_a
+HND,Honduras,UNHCR,domain_a
+HRV,Croatia,AC2,domain_a
+HRV,HRV,CID,domain_a
+HRV,47,CRS,domain_a
+HRV,Croatia,UNHCR,domain_a
+HTI,Haiti,AC2,domain_a
+HTI,HTI,CID,domain_a
+HTI,75,CRS,domain_a
+HTI,Haiti,UNHCR,domain_a
+HUN,Hungary,AC2,domain_a
+HUN,HUN,CID,domain_a
+HUN,80,CRS,domain_a
+HUN,Hungary,UNHCR,domain_a
+IDN,Indonesia,AC2,domain_a
+IDN,IDN,CID,domain_a
+IDN,82,CRS,domain_a
+IDN,Indonesia,UNHCR,domain_a
+IMN,Isle Of Man,AC2,domain_a
+IMN,IMN,CID,domain_a
+IND,India,AC2,domain_a
+IND,IND,CID,domain_a
+IND,81,CRS,domain_a
+IND,India,UNHCR,domain_a
+IOT,British Indian Ocean Territory,AC2,domain_a
+IOT,IOT,CID,domain_a
+IOT,British Indian Ocean Territory,UNHCR,domain_a
+IRL,Ireland,AC2,domain_a
+IRL,IRL,CID,domain_a
+IRL,XIR,CID,domain_a
+IRL,209,CRS,domain_a
+IRL,Ireland,UNHCR,domain_a
+IRN,Iran,AC2,domain_a
+IRN,IRN,CID,domain_a
+IRN,83,CRS,domain_a
+IRN,"Iran, Islamic Republic of",UNHCR,domain_a
+IRQ,Iraq,AC2,domain_a
+IRQ,IRQ,CID,domain_a
+IRQ,84,CRS,domain_a
+IRQ,Iraq,UNHCR,domain_a
+ISL,Iceland,AC2,domain_a
+ISL,ISL,CID,domain_a
+ISL,208,CRS,domain_a
+ISL,Iceland,UNHCR,domain_a
+ISR,Israel,AC2,domain_a
+ISR,ISR,CID,domain_a
+ISR,85,CRS,domain_a
+ISR,Israel,UNHCR,domain_a
+ITA,Italy,AC2,domain_a
+ITA,ITA,CID,domain_a
+ITA,207,CRS,domain_a
+ITA,Italy,UNHCR,domain_a
+JAM,Jamaica,AC2,domain_a
+JAM,JAM,CID,domain_a
+JAM,86,CRS,domain_a
+JAM,Jamaica,UNHCR,domain_a
+JEY,Channel Islands,AC2,domain_a
+JEY,JEY,CID,domain_a
+JOR,Jordan,AC2,domain_a
+JOR,JOR,CID,domain_a
+JOR,88,CRS,domain_a
+JOR,Jordan,UNHCR,domain_a
+JPN,Japan,AC2,domain_a
+JPN,JPN,CID,domain_a
+JPN,87,CRS,domain_a
+JPN,Japan,UNHCR,domain_a
+JTN,USA Minor Outlying Islands,AC2,domain_a
+JTN,JTN,CID,domain_a
+KAZ,Kazakhstan,AC2,domain_a
+KAZ,KAZ,CID,domain_a
+KAZ,89,CRS,domain_a
+KAZ,Kazakhstan,UNHCR,domain_a
+KEN,Kenya,AC2,domain_a
+KEN,KEN,CID,domain_a
+KEN,90,CRS,domain_a
+KEN,Kenya,UNHCR,domain_a
+KGZ,Kyrgyzstan,AC2,domain_a
+KGZ,KGZ,CID,domain_a
+KGZ,92,CRS,domain_a
+KGZ,Kyrgyzstan,UNHCR,domain_a
+KHM,Cambodia,AC2,domain_a
+KHM,CAM,CID,domain_a
+KHM,KHM,CID,domain_a
+KHM,32,CRS,domain_a
+KHM,Cambodia,UNHCR,domain_a
+KIR,Kiribati,AC2,domain_a
+KIR,KIR,CID,domain_a
+KIR,91,CRS,domain_a
+KIR,Kiribati,UNHCR,domain_a
+KNA,Saint Kitts And Nevis,AC2,domain_a
+KNA,KNA,CID,domain_a
+KNA,145,CRS,domain_a
+KNA,Saint Kitts and Nevis,UNHCR,domain_a
+KOR,South Korea,AC2,domain_a
+KOR,KOR,CID,domain_a
+KOR,94,CRS,domain_a
+KOR,Republic of Korea,UNHCR,domain_a
+KOS,Kosovo,AC2,domain_a
+KOS,KOS,CID,domain_a
+KOS,XXK,CID,domain_a
+KOS,223,CRS,domain_a
+KOS,236,CRS,domain_a
+KWT,Kuwait,AC2,domain_a
+KWT,KWT,CID,domain_a
+KWT,95,CRS,domain_a
+KWT,Kuwait,UNHCR,domain_a
+LAO,Laos,AC2,domain_a
+LAO,LAO,CID,domain_a
+LAO,96,CRS,domain_a
+LAO,Lao Peoples Democratic Republic,UNHCR,domain_a
+LBN,Lebanon,AC2,domain_a
+LBN,LBN,CID,domain_a
+LBN,98,CRS,domain_a
+LBN,Lebanon,UNHCR,domain_a
+LBR,Liberia,AC2,domain_a
+LBR,LBR,CID,domain_a
+LBR,100,CRS,domain_a
+LBR,Liberia,UNHCR,domain_a
+LBY,Libya,AC2,domain_a
+LBY,LBY,CID,domain_a
+LBY,XLB,CID,domain_a
+LBY,XLR,CID,domain_a
+LBY,101,CRS,domain_a
+LBY,Libyan Arab Jamahiriya,UNHCR,domain_a
+LCA,Saint Lucia,AC2,domain_a
+LCA,LCA,CID,domain_a
+LCA,146,CRS,domain_a
+LCA,Saint Lucia,UNHCR,domain_a
+LIE,Liechtenstein,AC2,domain_a
+LIE,LIE,CID,domain_a
+LIE,215,CRS,domain_a
+LIE,Liechtenstein,UNHCR,domain_a
+LKA,Sri Lanka,AC2,domain_a
+LKA,LKA,CID,domain_a
+LKA,160,CRS,domain_a
+LKA,Sri Lanka,UNHCR,domain_a
+LSO,Lesotho,AC2,domain_a
+LSO,LSO,CID,domain_a
+LSO,99,CRS,domain_a
+LSO,Lesotho,UNHCR,domain_a
+LTU,Lithuania,AC2,domain_a
+LTU,LTU,CID,domain_a
+LTU,102,CRS,domain_a
+LTU,Lithuania,UNHCR,domain_a
+LUX,Luxembourg,AC2,domain_a
+LUX,LUX,CID,domain_a
+LUX,103,CRS,domain_a
+LUX,Luxembourg,UNHCR,domain_a
+LVA,Latvia,AC2,domain_a
+LVA,LVA,CID,domain_a
+LVA,97,CRS,domain_a
+LVA,Latvia,UNHCR,domain_a
+MAC,Macao,AC2,domain_a
+MAC,MAC,CID,domain_a
+MAC,227,CRS,domain_a
+MAC,Macau,UNHCR,domain_a
+MAF,Unspec Caribbean Country,AC2,domain_a
+MAF,MAF,CID,domain_a
+MAR,Morocco,AC2,domain_a
+MAR,MAR,CID,domain_a
+MAR,119,CRS,domain_a
+MAR,Morocco,UNHCR,domain_a
+MCO,Monaco,AC2,domain_a
+MCO,MCO,CID,domain_a
+MCO,115,CRS,domain_a
+MCO,Monaco,UNHCR,domain_a
+MDA,Moldova,AC2,domain_a
+MDA,MDA,CID,domain_a
+MDA,MOL,CID,domain_a
+MDA,114,CRS,domain_a
+MDA,228,CRS,domain_a
+MDA,Republic of Moldova,UNHCR,domain_a
+MDG,Madagascar,AC2,domain_a
+MDG,MDG,CID,domain_a
+MDG,105,CRS,domain_a
+MDG,Madagascar,UNHCR,domain_a
+MDV,Maldives,AC2,domain_a
+MDV,MDV,CID,domain_a
+MDV,108,CRS,domain_a
+MDV,Maldives,UNHCR,domain_a
+MEX,Mexico,AC2,domain_a
+MEX,MEX,CID,domain_a
+MEX,113,CRS,domain_a
+MEX,Mexico,UNHCR,domain_a
+MHL,Marshall Islands,AC2,domain_a
+MHL,MHL,CID,domain_a
+MHL,217,CRS,domain_a
+MHL,Marshall Islands,UNHCR,domain_a
+MID,USA Minor Outlying Islands,AC2,domain_a
+MID,MID,CID,domain_a
+MKD,Macedonia,AC2,domain_a
+MKD,MKD,CID,domain_a
+MKD,104,CRS,domain_a
+MKD,The former Yugoslav Republic of Macedonia,UNHCR,domain_a
+MLI,Mali,AC2,domain_a
+MLI,MLI,CID,domain_a
+MLI,109,CRS,domain_a
+MLI,Mali,UNHCR,domain_a
+MLT,Malta,AC2,domain_a
+MLT,MLT,CID,domain_a
+MLT,110,CRS,domain_a
+MLT,Malta,UNHCR,domain_a
+MMR,Burma,AC2,domain_a
+MMR,MMR,CID,domain_a
+MMR,MYN,CID,domain_a
+MMR,229,CRS,domain_a
+MMR,29,CRS,domain_a
+MMR,Myanmar,UNHCR,domain_a
+MNE,Montenegro,AC2,domain_a
+MNE,MNE,CID,domain_a
+MNE,MTG,CID,domain_a
+MNE,221,CRS,domain_a
+MNE,Montenegro,UNHCR,domain_a
+MNG,Mongolia,AC2,domain_a
+MNG,MNG,CID,domain_a
+MNG,116,CRS,domain_a
+MNG,Mongolia,UNHCR,domain_a
+MNP,Northern Mariana Islands,AC2,domain_a
+MNP,MNP,CID,domain_a
+MNP,Northern Mariana Islands,UNHCR,domain_a
+MOZ,Mozambique,AC2,domain_a
+MOZ,MOZ,CID,domain_a
+MOZ,120,CRS,domain_a
+MOZ,Mozambique,UNHCR,domain_a
+MRT,Mauritania,AC2,domain_a
+MRT,MRT,CID,domain_a
+MRT,111,CRS,domain_a
+MRT,Mauritania,UNHCR,domain_a
+MSR,Montserrat,AC2,domain_a
+MSR,MSR,CID,domain_a
+MSR,118,CRS,domain_a
+MSR,Montserrat,UNHCR,domain_a
+MTQ,Martinique,AC2,domain_a
+MTQ,MTQ,CID,domain_a
+MTQ,Martinique,UNHCR,domain_a
+MUS,Mauritius,AC2,domain_a
+MUS,MUS,CID,domain_a
+MUS,112,CRS,domain_a
+MUS,Mauritius,UNHCR,domain_a
+MWI,Malawi,AC2,domain_a
+MWI,MWI,CID,domain_a
+MWI,106,CRS,domain_a
+MWI,Malawi,UNHCR,domain_a
+MYS,Malaysia,AC2,domain_a
+MYS,MYS,CID,domain_a
+MYS,107,CRS,domain_a
+MYS,Malaysia,UNHCR,domain_a
+MYT,Mayotte,AC2,domain_a
+MYT,MYT,CID,domain_a
+MYT,Mayotte,UNHCR,domain_a
+NAM,Namibia,AC2,domain_a
+NAM,NAM,CID,domain_a
+NAM,121,CRS,domain_a
+NAM,Namibia,UNHCR,domain_a
+NCL,New Caledonia,AC2,domain_a
+NCL,NCL,CID,domain_a
+NCL,New Caledonia,UNHCR,domain_a
+NER,Niger,AC2,domain_a
+NER,NER,CID,domain_a
+NER,128,CRS,domain_a
+NER,Niger,UNHCR,domain_a
+NFK,Norfolk Island,AC2,domain_a
+NFK,NFK,CID,domain_a
+NFK,Norfolk Islands,UNHCR,domain_a
+NGA,Nigeria,AC2,domain_a
+NGA,NGA,CID,domain_a
+NGA,129,CRS,domain_a
+NGA,Nigeria,UNHCR,domain_a
+NIC,Nicaragua,AC2,domain_a
+NIC,NIC,CID,domain_a
+NIC,127,CRS,domain_a
+NIC,Nicaragua,UNHCR,domain_a
+NIU,Niue,AC2,domain_a
+NIU,NIU,CID,domain_a
+NIU,130,CRS,domain_a
+NIU,Niue,UNHCR,domain_a
+NLD,Netherlands,AC2,domain_a
+NLD,NLD,CID,domain_a
+NLD,124,CRS,domain_a
+NLD,Netherlands,UNHCR,domain_a
+NOR,Norway,AC2,domain_a
+NOR,NOR,CID,domain_a
+NOR,210,CRS,domain_a
+NOR,Norway,UNHCR,domain_a
+NPL,Nepal,AC2,domain_a
+NPL,NPL,CID,domain_a
+NPL,123,CRS,domain_a
+NPL,Nepal,UNHCR,domain_a
+NRU,Nauru,AC2,domain_a
+NRU,NRU,CID,domain_a
+NRU,122,CRS,domain_a
+NRU,Nauru,UNHCR,domain_a
+NTZ,NTZ,CID,domain_a
+NZL,New Zealand,AC2,domain_a
+NZL,NZL,CID,domain_a
+NZL,126,CRS,domain_a
+NZL,New Zealand,UNHCR,domain_a
+OMN,Oman,AC2,domain_a
+OMN,OMN,CID,domain_a
+OMN,131,CRS,domain_a
+OMN,Oman,UNHCR,domain_a
+PAK,Pakistan,AC2,domain_a
+PAK,PAK,CID,domain_a
+PAK,132,CRS,domain_a
+PAK,Pakistan,UNHCR,domain_a
+PAN,Panama,AC2,domain_a
+PAN,PAN,CID,domain_a
+PAN,133,CRS,domain_a
+PAN,Panama,UNHCR,domain_a
+PCI,PCI,CID,domain_a
+PCN,Pitcairn,AC2,domain_a
+PCN,PCN,CID,domain_a
+PCN,138,CRS,domain_a
+PCN,Pitcairn,UNHCR,domain_a
+PCZ,Panama,AC2,domain_a
+PCZ,PCZ,CID,domain_a
+PER,Peru,AC2,domain_a
+PER,PER,CID,domain_a
+PER,136,CRS,domain_a
+PER,Peru,UNHCR,domain_a
+PHL,Philippines,AC2,domain_a
+PHL,PHL,CID,domain_a
+PHL,137,CRS,domain_a
+PHL,Philippines,UNHCR,domain_a
+PLW,Palau,AC2,domain_a
+PLW,PLW,CID,domain_a
+PLW,230,CRS,domain_a
+PLW,Palau,UNHCR,domain_a
+PNG,Papua New Guinea,AC2,domain_a
+PNG,PNG,CID,domain_a
+PNG,134,CRS,domain_a
+PNG,Papua New Guinea,UNHCR,domain_a
+POL,Poland,AC2,domain_a
+POL,POL,CID,domain_a
+POL,139,CRS,domain_a
+POL,Poland,UNHCR,domain_a
+PRI,Puerto Rico,AC2,domain_a
+PRI,PRI,CID,domain_a
+PRI,Puerto Rico,UNHCR,domain_a
+PRK,North Korea (DPR),AC2,domain_a
+PRK,PRK,CID,domain_a
+PRK,93,CRS,domain_a
+PRK,"Democratic Peoples Republic of Korea,",UNHCR,domain_a
+PRT,Portugal,AC2,domain_a
+PRT,PRT,CID,domain_a
+PRT,205,CRS,domain_a
+PRT,Portugal,UNHCR,domain_a
+PRY,Paraguay,AC2,domain_a
+PRY,PRY,CID,domain_a
+PRY,135,CRS,domain_a
+PRY,Paraguay,UNHCR,domain_a
+PSE,"Palestinian Terr., Occupied",AC2,domain_a
+PSE,PSE,CID,domain_a
+PSE,211,CRS,domain_a
+PSE,231,CRS,domain_a
+PSE,Palestine,UNHCR,domain_a
+PUS,USA Minor Outlying Islands,AC2,domain_a
+PUS,PUS,CID,domain_a
+PYF,French Polynesia,AC2,domain_a
+PYF,PYF,CID,domain_a
+PYF,French Polynesia,UNHCR,domain_a
+QAT,Qatar,AC2,domain_a
+QAT,QAT,CID,domain_a
+QAT,140,CRS,domain_a
+QAT,Qatar,UNHCR,domain_a
+REU,Reunion,AC2,domain_a
+REU,REU,CID,domain_a
+REU,"Reunion, Department of",UNHCR,domain_a
+ROU,Romania,AC2,domain_a
+ROU,ROM,CID,domain_a
+ROU,ROU,CID,domain_a
+ROU,141,CRS,domain_a
+ROU,237,CRS,domain_a
+ROU,Romania,UNHCR,domain_a
+RUS,Russian Federation,AC2,domain_a
+RUS,RUS,CID,domain_a
+RUS,142,CRS,domain_a
+RUS,Russian Federation,UNHCR,domain_a
+RWA,Rwanda,AC2,domain_a
+RWA,RWA,CID,domain_a
+RWA,XRA,CID,domain_a
+RWA,XRU,CID,domain_a
+RWA,143,CRS,domain_a
+RWA,Rwanda,UNHCR,domain_a
+SAU,Saudi Arabia,AC2,domain_a
+SAU,SAU,CID,domain_a
+SAU,150,CRS,domain_a
+SAU,Saudi Arabia,UNHCR,domain_a
+SBA,Cyprus,AC2,domain_a
+SBA,SBA,CID,domain_a
+SCG,SCG,CID,domain_a
+SCG,232,CRS,domain_a
+SCG,Serbia and Montenegro,UNHCR,domain_a
+SCN,Saint Kitts And Nevis,AC2,domain_a
+SCN,SCN,CID,domain_a
+SCN,Saint Christopher & Nevis,UNHCR,domain_a
+SDN,Sudan,AC2,domain_a
+SDN,SDN,CID,domain_a
+SDN,161,CRS,domain_a
+SDN,Sudan,UNHCR,domain_a
+SEN,Senegal,AC2,domain_a
+SEN,SEN,CID,domain_a
+SEN,151,CRS,domain_a
+SEN,Senegal,UNHCR,domain_a
+SGP,Singapore,AC2,domain_a
+SGP,SGP,CID,domain_a
+SGP,154,CRS,domain_a
+SGP,Singapore,UNHCR,domain_a
+SGS,Sth Georgia & Sth Sndwch Isl,AC2,domain_a
+SGS,SGS,CID,domain_a
+SGS,S.Georgia & S.Sandwich Is.,UNHCR,domain_a
+SHN,Saint Helena,AC2,domain_a
+SHN,SHN,CID,domain_a
+SHN,XSH,CID,domain_a
+SHN,XTC,CID,domain_a
+SHN,144,CRS,domain_a
+SHN,Saint Helena,UNHCR,domain_a
+SJM,Svalbard And Jan Mayen,AC2,domain_a
+SJM,SJM,CID,domain_a
+SJM,Svalbard and Jam Mayen,UNHCR,domain_a
+SKM,India,AC2,domain_a
+SKM,SKM,CID,domain_a
+SKM,Sikkim,UNHCR,domain_a
+SLB,Solomon Islands,AC2,domain_a
+SLB,SLB,CID,domain_a
+SLB,157,CRS,domain_a
+SLB,Solomon Islands,UNHCR,domain_a
+SLE,Sierra Leone,AC2,domain_a
+SLE,SLE,CID,domain_a
+SLE,153,CRS,domain_a
+SLE,Sierra Leone,UNHCR,domain_a
+SLV,El Salvador,AC2,domain_a
+SLV,SLV,CID,domain_a
+SLV,58,CRS,domain_a
+SLV,El Salvador,UNHCR,domain_a
+SMR,San Marino,AC2,domain_a
+SMR,SMR,CID,domain_a
+SMR,148,CRS,domain_a
+SMR,San Marino,UNHCR,domain_a
+SOM,Somalia,AC2,domain_a
+SOM,SOM,CID,domain_a
+SOM,158,CRS,domain_a
+SOM,Somalia,UNHCR,domain_a
+SPM,Saint Pierre And Miquelon,AC2,domain_a
+SPM,SPM,CID,domain_a
+SPM,Saint Pierre et Miquelon,UNHCR,domain_a
+SRB,Serbia,AC2,domain_a
+SRB,SRB,CID,domain_a
+SRB,222,CRS,domain_a
+SRB,Serbia,UNHCR,domain_a
+SSD,South Sudan,AC2,domain_a
+SSD,SSD,CID,domain_a
+SSD,XSS,CID,domain_a
+SSD,224,CRS,domain_a
+SSD,"South Sudan, The Republic of",UNHCR,domain_a
+STP,Sao Tome And Principe,AC2,domain_a
+STP,STP,CID,domain_a
+STP,149,CRS,domain_a
+STP,Sao Tome and Principe,UNHCR,domain_a
+SUN,SUN,CID,domain_a
+SUN,XSU,CID,domain_a
+SUN,192,CRS,domain_a
+SUN,Soviet Union,UNHCR,domain_a
+SUR,Suriname,AC2,domain_a
+SUR,SUR,CID,domain_a
+SUR,162,CRS,domain_a
+SUR,Suriname,UNHCR,domain_a
+SVK,Slovakia,AC2,domain_a
+SVK,SVK,CID,domain_a
+SVK,155,CRS,domain_a
+SVK,Slovakia,UNHCR,domain_a
+SVN,Slovenia,AC2,domain_a
+SVN,SVN,CID,domain_a
+SVN,156,CRS,domain_a
+SVN,Slovenia,UNHCR,domain_a
+SWE,Sweden,AC2,domain_a
+SWE,SWE,CID,domain_a
+SWE,206,CRS,domain_a
+SWE,Sweden,UNHCR,domain_a
+SWZ,Swaziland,AC2,domain_a
+SWZ,SWZ,CID,domain_a
+SWZ,163,CRS,domain_a
+SWZ,Swaziland,UNHCR,domain_a
+SXM,Unspec Caribbean Country,AC2,domain_a
+SXM,SXM,CID,domain_a
+SXM,Saint Maarten (NET),UNHCR,domain_a
+SYC,Seychelles,AC2,domain_a
+SYC,SYC,CID,domain_a
+SYC,152,CRS,domain_a
+SYC,Seychelles,UNHCR,domain_a
+SYR,Syria,AC2,domain_a
+SYR,SYR,CID,domain_a
+SYR,165,CRS,domain_a
+SYR,Syrian Arab Republic,UNHCR,domain_a
+TCA,Turks And Caicos Islands,AC2,domain_a
+TCA,TCA,CID,domain_a
+TCA,175,CRS,domain_a
+TCA,Turks and Caicos Islands,UNHCR,domain_a
+TCD,Chad,AC2,domain_a
+TCD,TCD,CID,domain_a
+TCD,38,CRS,domain_a
+TCD,Chad,UNHCR,domain_a
+TGO,Togo,AC2,domain_a
+TGO,TGO,CID,domain_a
+TGO,169,CRS,domain_a
+TGO,Togo,UNHCR,domain_a
+THA,Thailand,AC2,domain_a
+THA,THA,CID,domain_a
+THA,168,CRS,domain_a
+THA,Thailand,UNHCR,domain_a
+TJK,Tajikistan,AC2,domain_a
+TJK,TJK,CID,domain_a
+TJK,166,CRS,domain_a
+TJK,238,CRS,domain_a
+TJK,Tajikistan,UNHCR,domain_a
+TKL,Tokelau,AC2,domain_a
+TKL,TKL,CID,domain_a
+TKL,Tokelau,UNHCR,domain_a
+TKM,Turkmenistan,AC2,domain_a
+TKM,TKM,CID,domain_a
+TKM,173,CRS,domain_a
+TKM,Turkmenistan,UNHCR,domain_a
+TLS,East Timor,AC2,domain_a
+TLS,TLS,CID,domain_a
+TLS,TMP,CID,domain_a
+TLS,216,CRS,domain_a
+TLS,Timor-Leste,UNHCR,domain_a
+TON,Tonga,AC2,domain_a
+TON,TON,CID,domain_a
+TON,170,CRS,domain_a
+TON,Tonga,UNHCR,domain_a
+TTO,Trinidad And Tobago,AC2,domain_a
+TTO,TTO,CID,domain_a
+TTO,171,CRS,domain_a
+TTO,Trinidad and Tobago,UNHCR,domain_a
+TUN,Tunisia,AC2,domain_a
+TUN,TUN,CID,domain_a
+TUN,172,CRS,domain_a
+TUN,Tunisia,UNHCR,domain_a
+TUR,Turkey,AC2,domain_a
+TUR,TUR,CID,domain_a
+TUR,174,CRS,domain_a
+TUR,Turkey,UNHCR,domain_a
+TUV,Tuvalu,AC2,domain_a
+TUV,TUV,CID,domain_a
+TUV,176,CRS,domain_a
+TUV,Tuvalu,UNHCR,domain_a
+TWN,Taiwan,AC2,domain_a
+TWN,TWN,CID,domain_a
+TWN,41,CRS,domain_a
+TWN,"Taiwan, Province of China",UNHCR,domain_a
+TZA,Tanzania,AC2,domain_a
+TZA,TZA,CID,domain_a
+TZA,167,CRS,domain_a
+TZA,United Republic of Tanzania,UNHCR,domain_a
+UGA,Uganda,AC2,domain_a
+UGA,UGA,CID,domain_a
+UGA,177,CRS,domain_a
+UGA,Uganda,UNHCR,domain_a
+UKR,Ukraine,AC2,domain_a
+UKR,UKR,CID,domain_a
+UKR,178,CRS,domain_a
+UKR,Ukraine,UNHCR,domain_a
+UMI,USA Minor Outlying Islands,AC2,domain_a
+UMI,UMI,CID,domain_a
+UMI,US Minor Outlying Islands,UNHCR,domain_a
+UNA,UNA,CID,domain_a
+UNA,233,CRS,domain_a
+UNK,Kosovo,AC2,domain_a
+UNK,UNK,CID,domain_a
+UNO,UNO,CID,domain_a
+UNO,180,CRS,domain_a
+URY,Uruguay,AC2,domain_a
+URY,URY,CID,domain_a
+URY,181,CRS,domain_a
+URY,Uruguay,UNHCR,domain_a
+USA,United States,AC2,domain_a
+USA,USA,CID,domain_a
+USA,4,CRS,domain_a
+USA,United States of America,UNHCR,domain_a
+UZB,Uzbekistan,AC2,domain_a
+UZB,UZB,CID,domain_a
+UZB,182,CRS,domain_a
+UZB,Uzbekistan,UNHCR,domain_a
+VAT,Vatican City,AC2,domain_a
+VAT,VAT,CID,domain_a
+VAT,76,CRS,domain_a
+VAT,The Holy See,UNHCR,domain_a
+VCT,St. Vincent & The Grenadines,AC2,domain_a
+VCT,VCT,CID,domain_a
+VCT,147,CRS,domain_a
+VCT,Saint Vincent and the Grenadines,UNHCR,domain_a
+VDR,Vietnam,AC2,domain_a
+VDR,VDR,CID,domain_a
+VEN,Venezuela,AC2,domain_a
+VEN,VEN,CID,domain_a
+VEN,183,CRS,domain_a
+VEN,Venezuela,UNHCR,domain_a
+VGB,Virgin Islands (British),AC2,domain_a
+VGB,VGB,CID,domain_a
+VGB,185,CRS,domain_a
+VGB,Virgin Islands (British),UNHCR,domain_a
+VIR,Virgin Islands (U.S.),AC2,domain_a
+VIR,VIR,CID,domain_a
+VIR,Virgin Islands (U.S.),UNHCR,domain_a
+VNM,Vietnam,AC2,domain_a
+VNM,VNM,CID,domain_a
+VNM,184,CRS,domain_a
+VNM,Viet Nam,UNHCR,domain_a
+VUT,Vanuatu,AC2,domain_a
+VUT,VUT,CID,domain_a
+VUT,125,CRS,domain_a
+VUT,Vanuatu,UNHCR,domain_a
+WAK,USA Minor Outlying Islands,AC2,domain_a
+WAK,WAK,CID,domain_a
+WLF,Wallis And Futuna,AC2,domain_a
+WLF,WLF,CID,domain_a
+WLF,Wallis and Futuna Islands,UNHCR,domain_a
+WSM,Samoa,AC2,domain_a
+WSM,WSM,CID,domain_a
+WSM,186,CRS,domain_a
+WSM,Samoa,UNHCR,domain_a
+XAD,Yemen,AC2,domain_a
+XAD,XAD,CID,domain_a
+XBD,GBN,CID,domain_a
+XBD,XBC,CID,domain_a
+XBD,XBD,CID,domain_a
+XBD,XBN,CID,domain_a
+XBD,XBO,CID,domain_a
+XBD,XBP,CID,domain_a
+XBD,XBS,CID,domain_a
+XBE,Botswana,AC2,domain_a
+XBE,XBE,CID,domain_a
+XBG,Guyana,AC2,domain_a
+XBG,XBG,CID,domain_a
+XBH,Honduras,AC2,domain_a
+XBH,XBH,CID,domain_a
+XBU,Burma,AC2,domain_a
+XBU,XBU,CID,domain_a
+XBY,Belarus,AC2,domain_a
+XBY,XBY,CID,domain_a
+XCE,Sri Lanka,AC2,domain_a
+XCE,XCE,CID,domain_a
+XCH,India,AC2,domain_a
+XCH,XCH,CID,domain_a
+XCS,XCS,CID,domain_a
+XDA,India,AC2,domain_a
+XDA,XDA,CID,domain_a
+XDE,Germany,AC2,domain_a
+XDE,XDE,CID,domain_a
+XDG,Suriname,AC2,domain_a
+XDG,XDG,CID,domain_a
+XDR,Germany,AC2,domain_a
+XDR,XDR,CID,domain_a
+XEA,XEA,CID,domain_a
+XED,Indonesia,AC2,domain_a
+XED,XED,CID,domain_a
+XEI,Indonesia,AC2,domain_a
+XEI,XEI,CID,domain_a
+XEP,Bangladesh,AC2,domain_a
+XEP,XEP,CID,domain_a
+XFG,Guinea,AC2,domain_a
+XFG,XFG,CID,domain_a
+XGD,Germany,AC2,domain_a
+XGD,XGD,CID,domain_a
+XGE,XGE,CID,domain_a
+XGH,XGH,CID,domain_a
+XGL,Kiribati,AC2,domain_a
+XGL,XGL,CID,domain_a
+XGO,India,AC2,domain_a
+XGO,XGO,CID,domain_a
+XHB,Vanuatu,AC2,domain_a
+XHB,XHB,CID,domain_a
+XIC,XIC,CID,domain_a
+XKR,XKR,CID,domain_a
+XKW,Kuwait,AC2,domain_a
+XKW,XKW,CID,domain_a
+XML,Madagascar,AC2,domain_a
+XML,XML,CID,domain_a
+XMY,Malaysia,AC2,domain_a
+XMY,XMY,CID,domain_a
+XNB,Malaysia,AC2,domain_a
+XNB,XNB,CID,domain_a
+XNR,Zambia,AC2,domain_a
+XNR,XNR,CID,domain_a
+XNW,Canada,AC2,domain_a
+XNW,XNW,CID,domain_a
+XNY,Malawi,AC2,domain_a
+XNY,XNY,CID,domain_a
+XPA,Mozambique,AC2,domain_a
+XPA,XPA,CID,domain_a
+XPE,XPE,CID,domain_a
+XPG,Guinea-Bissau,AC2,domain_a
+XPG,XPG,CID,domain_a
+XRH,Zimbabwe,AC2,domain_a
+XRH,XRH,CID,domain_a
+XRN,XRN,CID,domain_a
+XRS,Zimbabwe,AC2,domain_a
+XRS,XRS,CID,domain_a
+XSK,Saint Kitts And Nevis,AC2,domain_a
+XSK,XSK,CID,domain_a
+XSM,Thailand ,AC2,domain_a
+XSM,XSM,CID,domain_a
+XSR,Sudan,AC2,domain_a
+XSR,XSR,CID,domain_a
+XSV,Vietnam,AC2,domain_a
+XSV,XSV,CID,domain_a
+XSW,Namibia,AC2,domain_a
+XSW,XSW,CID,domain_a
+XSY,Yemen,AC2,domain_a
+XSY,XSY,CID,domain_a
+XSY,XYM,CID,domain_a
+XTB,China,AC2,domain_a
+XTB,XTB,CID,domain_a
+XTB,"Tibet (SAR, China)",UNHCR,domain_a
+XTS,United Arab Emirates,AC2,domain_a
+XTS,XTS,CID,domain_a
+XTW,Taiwan,AC2,domain_a
+XTW,XTW,CID,domain_a
+XTZ,Tanzania,AC2,domain_a
+XTZ,XTZ,CID,domain_a
+XUR,XUR,CID,domain_a
+XUS,XUS,CID,domain_a
+XVO,Burkina Faso,AC2,domain_a
+XVO,XVO,CID,domain_a
+XXA,XSL,CID,domain_a
+XXA,XXA,CID,domain_a
+XXA,None/Stateless,UNHCR,domain_a
+XXH,Hong Kong,AC2,domain_a
+XXH,XXH,CID,domain_a
+XXH,79,CRS,domain_a
+XXP,XXP,CID,domain_a
+XXT,Cyprus,AC2,domain_a
+XXT,XXT,CID,domain_a
+XXX,XXX,CID,domain_a
+YEM,Yemen,AC2,domain_a
+YEM,NYM,CID,domain_a
+YEM,XYE,CID,domain_a
+YEM,YEM,CID,domain_a
+YEM,187,CRS,domain_a
+YEM,Yemen,UNHCR,domain_a
+YUG,YUG,CID,domain_a
+YUG,117,CRS,domain_a
+YUG,Yugoslavia,UNHCR,domain_a
+ZAF,South Africa,AC2,domain_a
+ZAF,ZAF,CID,domain_a
+ZAF,159,CRS,domain_a
+ZAF,South Africa,UNHCR,domain_a
+ZMB,Zambia,AC2,domain_a
+ZMB,ZMB,CID,domain_a
+ZMB,189,CRS,domain_a
+ZMB,Zambia,UNHCR,domain_a
+ZWE,Zimbabwe,AC2,domain_a
+ZWE,ZWE,CID,domain_a
+ZWE,190,CRS,domain_a
+ZWE,Zimbabwe,UNHCR,domain_a
+ZZZ,DUM,CID,domain_a
+ZZZ,ICWUNKNOWN,CID,domain_a
+ZZZ,XBX,CID,domain_a
+ZZZ,XIF,CID,domain_a
+ZZZ,XPR,CID,domain_a
+ZZZ,XUN,CID,domain_a
+ZZZ,XXB,CID,domain_a
+ZZZ,XXC,CID,domain_a
+ZZZ,XXS,CID,domain_a
+ZZZ,ZZZ,CID,domain_a
+ZZZ,193,CRS,domain_a
+ZZZ,194,CRS,domain_a
+ZZZ,195,CRS,domain_a
+ZZZ,196,CRS,domain_a
+ZZZ,197,CRS,domain_a
+ZZZ,198,CRS,domain_a
+ZZZ,199,CRS,domain_a
+ZZZ,200,CRS,domain_a
+ZZZ,201,CRS,domain_a
+ZZZ,203,CRS,domain_a
+ZZZ,218,CRS,domain_a
+ZZZ,219,CRS,domain_a
+ZZZ,235,CRS,domain_a
+ZZZ,241,CRS,domain_a
+ZZZ,500,CRS,domain_a
+ZZZ,Unknown,UNHCR,domain_a
